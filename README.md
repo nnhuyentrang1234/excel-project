@@ -12,8 +12,7 @@ The focus is on organizing data, applying analytical logic, and presenting insig
 ## Tools & Techniques
 - Microsoft Excel
 - Excel formulas
-- Data cleaning
-- PivotTables
+- Pivot Tables
 - Charts & basic visualization
 
 ## Project Structure
